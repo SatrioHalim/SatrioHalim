@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently studying computer science.<br>👯 I’m looking to collaborate on open-source projects related to web and software development.<br>🌱 I’m currently learning web dev especially fullstack<br>⚡ Fun fact : If I sneeze at least three times
+🔭 I’m currently studying computer science.<br>👯 I’m looking to collaborate on open-source projects related to web and software development.<br>🌱 I’m currently learning web dev especially fullstack<br>⚡ Fun fact : I sneeze three times at least
 
 
 ## 🌐 Socials:
