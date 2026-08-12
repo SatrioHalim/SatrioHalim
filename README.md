@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🎓 CS student at BINUS University, currently interning as an Application Developer.<br>
-💼 Exploring full-stack development, mobile applications (Flutter & Android), and backend systems — with hands-on experience in Node.js and application maintenance.<br>
+💼 Exploring full-stack development, mobile applications (Flutter & Android), and backend systems<br>
 👯 Open to collaborating on open-source web & software dev projects.<br>
 ⚡ Outside of code: riding & hanging out with cats.
 
