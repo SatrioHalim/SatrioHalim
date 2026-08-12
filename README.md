@@ -33,7 +33,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=SatrioHalim&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SatrioHalim&theme=tokyonight&hide_border=false)<br/>
 
-> ⚠️ If the stats cards above show blank/broken images, the public hosted instance is likely rate-limited or down. See notes below for self-hosting or a stable alternative.
+> ⚠️ If the stats cards above show blank/broken images, the public hosted instance is likely rate-limited or down.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
