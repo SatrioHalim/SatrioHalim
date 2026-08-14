@@ -8,7 +8,7 @@
 
 ## 🚀 Featured Projects:
 
-* **[Sproad](https://github.com/SatrioHalim/sproad)** — Kanban Project Management App built with Golang Fiber, React/Vite, and PostgreSQL, featuring a modern architecture and deployed across Neon, Render, and Vercel.
+* **[Sproad](https://github.com/SatrioHalim/sproad)** *(on-going)* — Kanban Project Management App built with Golang Fiber, React/Vite, and PostgreSQL, featuring a modern architecture and deployed across Neon, Render, and Vercel.
 
 * **[Auréon Le Parfum](https://github.com/SatrioHalim/Aureon-Le-Parfum)** — Modern e-commerce website for a premium men's fragrance brand, built with vanilla JavaScript, HTML, and CSS. Designed with a clean, elegant interface to showcase products and create a refined shopping experience.
 
